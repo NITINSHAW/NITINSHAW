@@ -28,7 +28,7 @@ Institute of Cost Accountants of India
 
 ## 📫 Connect with me
 
-- [LinkedIn](www.linkedin.com/in/nitin-shaw-3a5983216)
+- [LinkedIn](https://www.linkedin.com/in/nitin-shaw-3a5983216/)
 - 📧 Email: shawnitin838@email.com
 
 ---
