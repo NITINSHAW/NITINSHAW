@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Nitin Shaw
 
-🎓 B.Com Graduate | 📊 Aspiring Data Analyst | 🧮 CMA Intermediate  
+🎓 B.Com Graduate | 📊 Aspiring Data Analyst | 🧮 Aspiring CMA Intermediate  
 📍 Based in Kolkata, India  
 💼 Passionate about turning data into meaningful insights
 
